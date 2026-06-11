@@ -209,7 +209,7 @@
         <dependency>
             <groupId>com.nimbusds</groupId>
             <artifactId>nimbus-jose-jwt</artifactId>
-            <version>7.9</version>
+            <version>9.37.4</version>
         </dependency>
         <dependency>
             <groupId>com.nimbusds</groupId>
@@ -226,7 +226,7 @@
         <dependency>
             <groupId>org.apache.activemq</groupId>
             <artifactId>activemq-broker</artifactId>
-            <version>5.13.3</version>
+            <version>5.19.4</version>
         </dependency>
 
         <!-- citeproc support -->
@@ -238,7 +238,7 @@
         <dependency>
             <groupId>org.mozilla</groupId>
             <artifactId>rhino</artifactId>
-            <version>1.7.7.1</version>
+            <version>1.7.14.1</version>
         </dependency>
 
         <!-- 2FA -->
@@ -285,7 +285,7 @@
         <dependency>
             <groupId>commons-net</groupId>
             <artifactId>commons-net</artifactId>
-            <version>3.6</version>
+            <version>3.9.0</version>
         </dependency>
 
         <dependency>
